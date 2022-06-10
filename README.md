@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/john-willy-andersen-495bab21a/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
