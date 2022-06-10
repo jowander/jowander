@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm John Willy Andersen</h1>
 <h3 align="center">A passionate Front-end developer from Norway</h3>
 
@@ -9,6 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/john-willy-andersen-495bab21a/**
 
+- Check out my Portofolio **https://resonant-granita-552ef5.netlify.app
 
 <p align="left">
 </p>
